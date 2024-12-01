@@ -1,0 +1,9 @@
+
+When adding more packages inside the project, we need every package to have the current version of the next.js version to set its version
+Go to package.json file and add
+
+"packageManager": "npm@10.5.2",
+   "overrides": {
+    "react": "$react",
+    "react-dom": "$react-dom"
+   },
