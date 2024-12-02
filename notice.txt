@@ -7,3 +7,12 @@ Go to package.json file and add
     "react": "$react",
     "react-dom": "$react-dom"
    },
+
+
+For authentication go to auth.js and
+install the following packages -->
+npm install next-auth@beta
+npx auth secret
+
+
+now add configuration as shown in the docs
