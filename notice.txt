@@ -15,4 +15,17 @@ npm install next-auth@beta
 npx auth secret
 
 
-now add configuration as shown in the docs
+now add configuration as shown in the docs\
+
+The login, signOut are added in the components folder (Navbar.tsx and LoginButton.tsx)
+
+After the authentication is done
+
+The second step is theming and fonts
+
+configure the tailwind.config.ts file
+
+After that install 
+   npm install tailwindcss-animate
+and
+   npm install @tailwindcss/typography
