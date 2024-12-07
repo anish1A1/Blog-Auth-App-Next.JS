@@ -13,7 +13,7 @@ export default async function Home({searchParams  } :
         {
           _createdAt : new Date(),
           views: 55,
-          author : { _id : 1},
+          author : { _id : 1 , name : "John Doe"},
           _id : 1,
           descriptions : "This is a description",
           image : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FRuko-Programmable-Interactive-Control-Present%2Fdp%2FB085WPHTHW&psig=AOvVaw2WNdpjQwKqyg0MztG2cjBk&ust=1733627431105000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNii69LXlIoDFQAAAAAdAAAAABAE",
