@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import SearchForm from "../components/SearchForm";
+import SearchForm from "@/components/SearchForm";
 
 
 export default async function Home({searchParams  } :
