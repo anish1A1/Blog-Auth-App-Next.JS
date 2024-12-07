@@ -16,7 +16,7 @@ export default async function Home({searchParams  } :
           author : { _id : 1 , name : "John Doe"},
           _id : 1,
           descriptions : "This is a description",
-          image : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FRuko-Programmable-Interactive-Control-Present%2Fdp%2FB085WPHTHW&psig=AOvVaw2WNdpjQwKqyg0MztG2cjBk&ust=1733627431105000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNii69LXlIoDFQAAAAAdAAAAABAE",
+          image : "https://www.freepik.com/free-photo/robot-holding-light-bulb_7528593.htm#fromView=keyword&page=1&position=0&uuid=937590c0-dcde-4395-b3e8-f23193019d91",
           category : "Technology",
           title : "Robots",
         },
