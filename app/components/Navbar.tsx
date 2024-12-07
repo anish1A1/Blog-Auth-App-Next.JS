@@ -40,7 +40,11 @@ const Navbar = async () => {
 
 
                         <LoginButton />
+
+
                     )}
+
+                    
                 </div>
             </nav>
         </header>
