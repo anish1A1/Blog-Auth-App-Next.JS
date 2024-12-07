@@ -29,3 +29,21 @@ After that install
    npm install tailwindcss-animate
 and
    npm install @tailwindcss/typography
+
+
+
+install shadcn in the project from the docs of shadcn
+
+
+to install sanity go to docs and create a new project in it
+   after that install npm from the docs of shadcn(of project)
+   then add dependency of project. add typrscript and all dependencies
+
+   after that install shadcn
+
+   npm install shadcn@canary
+
+   after that go to package.json file
+   from there remove the --turbopack from
+      "dev": "next dev --turbopack",
+
